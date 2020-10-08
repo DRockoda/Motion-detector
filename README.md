@@ -20,7 +20,7 @@ python motion.py
 
 ## Screenshot
 * No motion
-<img src='ss1.JPG' height=400px>
+<img src='ss1.jpg' height=400px>
 
 * Motion
-<img src='ss2.JPG' height=400px>
+<img src='ss2.jpg' height=400px>
